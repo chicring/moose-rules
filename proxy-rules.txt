@@ -1,6 +1,21 @@
-geosite:imgur
-
-domain-suffix:mvnrepository.com
-
-domain-suffix:grok.com
-domain:x.ai
+{
+  "type": "rule_set",
+  "rules": [
+    {
+      "type": "geosite",
+      "value": "imgur"
+    },
+    {
+      "type": "domain_suffix",
+      "value": "mvnrepository.com"
+    },
+    {
+      "type": "domain_suffix",
+      "value": "grok.com"
+    },
+    {
+      "type": "domain",
+      "value": "x.ai"
+    }
+  ]
+}
