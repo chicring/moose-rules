@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "imgur.com",
+        "x.ai",
+        "grok.com",
+        "mvnrepository.com"
+      ]
+    }
+  ]
+}
